@@ -1,4 +1,4 @@
-# 💻 Quizz Js 💹
+# 💻 Quizz Js ⁉
 
 
 
@@ -17,4 +17,5 @@ HTML 5 - CSS3 - JavaScript Vanilla
 
 # ▶ Démo : 
 
+https://pimpuss.github.io/Quizz-Js/
 
